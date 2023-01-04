@@ -5,7 +5,7 @@ local hook_Add = hook.Add
 local addonName = 'VRMod Manual Pickup'
 
 -- Server-side convar (it is not needed on the client)
-local cvar = CreateConVar( 'vrmod_manual_pickup', 1, { FCVAR_ARCHIVE, FCVAR_REPLICATED }, '- Enables manual VRMod Pickup', 0, 1 )
+local cvar = CreateConVar( 'vrmod_manual_pickup', 1, { FCVAR_ARCHIVE, FCVAR_REPLICATED }, ' - Enables/disables manual pickup in virtual reality mode on server.', 0, 1 )
 
 do
 	
