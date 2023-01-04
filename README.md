@@ -1,5 +1,5 @@
 # gmod_vrmod_manual_pickup
-VRMod Manual Pickup - allows the vr player to pickup items manually.
+VRMod Manual Pickup - allows the vr player to pickup items and weapons manually.
 
 ## Convars
 - `vrmod_manual_pickup` `<0/1>` - Enables/disables manual pickup in virtual reality mode on server.
